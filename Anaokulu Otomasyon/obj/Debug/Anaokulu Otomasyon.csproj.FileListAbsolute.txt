@@ -1,0 +1,320 @@
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.exe.config
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.exe
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.pdb
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDers.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDersProgrami.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDuyuru.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.Frmilac.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgrenci.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmen.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmSinifBilgileri.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYemekListesi.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYoklamaListesi.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYönetici.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.Properties.Resources.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.exe.licenses
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.exe
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.pdb
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csprojAssemblyReference.cache
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeli.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmEtkinlik.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGelirGider.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmAidat.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGaleri.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliPanel.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDers.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDersProgramı.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDuyuru.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliEtkinlik.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYemekListesi.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYemekBildirim.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGiris.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliGaleri.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliÖdemeler.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYoklama.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliİlac.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliİlacBildirimi.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenPanel.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenOgrenciİslem.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenVeliislem.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenYemekBildirimi.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenİlacİslem.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenİlacBildirimi.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenYoklama.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenGaleri.resources
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\Renci.SshNet.dll
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\System.Buffers.dll
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\System.Memory.dll
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.pdb
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\Renci.SshNet.xml
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\System.Buffers.xml
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\System.Memory.xml
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\source\repos\Anaokulu Otomasyon\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.CopyComplete
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.exe.config
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.exe
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.pdb
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Renci.SshNet.dll
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Buffers.dll
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Memory.dll
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.pdb
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Renci.SshNet.xml
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Buffers.xml
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Memory.xml
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csprojAssemblyReference.cache
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmAidat.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDers.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDersProgrami.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDuyuru.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmEtkinlik.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGaleri.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGelirGider.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGiris.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.Frmilac.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgrenci.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmen.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenGaleri.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenOgrenciİslem.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenPanel.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenVeliislem.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenYemekBildirimi.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenYoklama.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenİlacBildirimi.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenİlacİslem.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmSinifBilgileri.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeli.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDers.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDersProgramı.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDuyuru.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliEtkinlik.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliGaleri.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliPanel.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYemekBildirim.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYemekListesi.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYoklama.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliÖdemeler.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliİlac.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYemekListesi.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYoklamaListesi.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYönetici.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliİlacBildirimi.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.Properties.Resources.resources
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.GenerateResource.cache
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.exe.licenses
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.CopyComplete
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.exe
+C:\Users\baron\OneDrive\Masaüstü\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.pdb
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.exe.config
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.exe
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.pdb
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Renci.SshNet.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Buffers.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Memory.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.pdb
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Renci.SshNet.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Buffers.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Memory.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmAidat.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDers.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDersProgrami.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDuyuru.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmEtkinlik.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGaleri.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGelirGider.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGiris.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.Frmilac.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgrenci.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmen.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenGaleri.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenOgrenciİslem.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenPanel.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenVeliislem.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenYemekBildirimi.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenYoklama.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenİlacBildirimi.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenİlacİslem.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmSinifBilgileri.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeli.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDers.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDersProgramı.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDuyuru.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliEtkinlik.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliGaleri.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliPanel.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYemekBildirim.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYemekListesi.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYoklama.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliÖdemeler.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliİlac.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYemekListesi.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYoklamaListesi.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYönetici.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliİlacBildirimi.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.Properties.Resources.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.exe.licenses
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.CopyComplete
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.exe
+C:\Users\asus\Desktop\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.pdb
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.exe.config
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.exe
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.pdb
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Renci.SshNet.dll
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Buffers.dll
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Memory.dll
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.pdb
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Renci.SshNet.xml
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Buffers.xml
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Memory.xml
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmAidat.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDers.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDersProgrami.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDuyuru.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmEtkinlik.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGaleri.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGelirGider.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGiris.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.Frmilac.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgrenci.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmen.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenGaleri.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenOgrenciİslem.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenPanel.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenVeliislem.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenYemekBildirimi.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenYoklama.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenİlacBildirimi.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenİlacİslem.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmSinifBilgileri.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeli.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDers.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDersProgramı.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDuyuru.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliEtkinlik.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliGaleri.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliPanel.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYemekBildirim.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYemekListesi.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYoklama.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliÖdemeler.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliİlac.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYemekListesi.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYoklamaListesi.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYönetici.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliİlacBildirimi.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.Properties.Resources.resources
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.exe.licenses
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.CopyComplete
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.exe
+C:\Users\asus\Desktop\Dosyalar\Anaokulu Otomasyonu (1)\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.pdb
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.exe.config
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.exe
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Anaokulu Otomasyon.pdb
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\MySql.Data.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Renci.SshNet.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Buffers.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Memory.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.pdb
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Google.Protobuf.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\MySql.Data.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\Renci.SshNet.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Buffers.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Memory.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmAidat.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDers.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDersProgrami.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmDuyuru.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmEtkinlik.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGaleri.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGelirGider.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmGiris.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.Frmilac.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgrenci.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmen.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenGaleri.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenOgrenciİslem.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenPanel.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenVeliislem.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenYemekBildirimi.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenYoklama.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenİlacBildirimi.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmOgretmenİlacİslem.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmSinifBilgileri.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeli.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDers.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDersProgramı.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliDuyuru.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliEtkinlik.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliGaleri.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliPanel.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYemekBildirim.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYemekListesi.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliYoklama.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliÖdemeler.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliİlac.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYemekListesi.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYoklamaListesi.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmYönetici.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.FrmVeliİlacBildirimi.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu_Otomasyon.Properties.Resources.resources
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.exe.licenses
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.csproj.CopyComplete
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.exe
+C:\Users\asus\Desktop\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyonu\Anaokulu Otomasyon\obj\Debug\Anaokulu Otomasyon.pdb
